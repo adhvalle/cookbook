@@ -1,0 +1,22 @@
+// Vitest Snapshot v1
+
+exports[`InfoSlider > renders the component 1`] = `
+"<div class=\\"info-slider\\">
+  <div class=\\"info-slider__wrapper\\">
+    <div class=\\"info-preview info-preview--selected info-slider__item\\" data-test=\\"info-slider__item\\">
+      <div class=\\"info-preview__image\\"><img class=\\"info-preview__img-src\\" alt=\\"Title\\"></div>
+      <div class=\\"info-preview__content\\">
+        <h2 class=\\"info-preview__title\\">Title</h2>
+        <p class=\\"info-preview__description\\">description</p>
+      </div>
+    </div>
+    <div class=\\"info-preview info-slider__item\\" data-test=\\"info-slider__item\\">
+      <div class=\\"info-preview__image\\"><img class=\\"info-preview__img-src\\" alt=\\"Title\\"></div>
+      <div class=\\"info-preview__content\\">
+        <h2 class=\\"info-preview__title\\">Title</h2>
+        <p class=\\"info-preview__description\\">description</p>
+      </div>
+    </div>
+  </div>
+</div>"
+`;

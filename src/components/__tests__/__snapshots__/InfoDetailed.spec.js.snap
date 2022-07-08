@@ -1,0 +1,18 @@
+// Vitest Snapshot v1
+
+exports[`InfoDetailed > renders the component 1`] = `
+"<div class=\\"info-detailed\\">
+  <div class=\\"info-detailed__header\\">
+    <div class=\\"info-detailed__image\\"><img class=\\"info-detailed__img-src\\" src=\\"1520081754.jpg\\" alt=\\"Title\\"></div>
+    <div class=\\"info-detailed__details\\">
+      <ul class=\\"info-detailed__list\\">
+        <li class=\\"info-detailed__list-item\\"><span class=\\"info-detailed__label\\">AREA:</span> area</li>
+        <li class=\\"info-detailed__list-item\\"><span class=\\"info-detailed__label\\">CATEGORY:</span> category</li>
+        <li class=\\"info-detailed__list-item\\"><a class=\\"info-detailed__link\\" target=\\"_blank\\" rel=\\"noopener\\"> Watch recipe video </a></li>
+      </ul>
+      <!--v-if-->
+    </div>
+  </div>
+  <div class=\\"info-detailed__description\\">description</div>
+</div>"
+`;

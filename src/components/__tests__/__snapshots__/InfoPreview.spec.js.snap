@@ -1,0 +1,11 @@
+// Vitest Snapshot v1
+
+exports[`InfoPreview > renders the component 1`] = `
+"<div class=\\"info-preview\\">
+  <div class=\\"info-preview__image\\"><img class=\\"info-preview__img-src\\" src=\\"1520081754.jpg/preview\\" alt=\\"Title\\"></div>
+  <div class=\\"info-preview__content\\">
+    <h2 class=\\"info-preview__title\\">Title</h2>
+    <p class=\\"info-preview__description\\">description</p>
+  </div>
+</div>"
+`;

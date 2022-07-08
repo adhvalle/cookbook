@@ -1,0 +1,10 @@
+// Vitest Snapshot v1
+
+exports[`TheHeader > renders the component 1`] = `
+"<header class=\\"the-header\\">
+  <h1 class=\\"the-header__title\\"><img class=\\"the-header__image\\" alt=\\"Cookbook logo\\" src=\\"/src/assets/logo.png\\"></h1>
+  <div class=\\"the-header__menu\\">
+    <nav class=\\"the-header__nav\\"><a class=\\"the-header__link\\"> Home </a><a class=\\"the-header__link\\"> My favourites </a></nav>
+  </div>
+</header>"
+`;
