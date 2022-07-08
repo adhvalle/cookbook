@@ -1,5 +1,8 @@
 The objective of the exercise is to try new technologies like Vitest and Vue 3.
 
+## Public project
+https://adhvalle.github.io/cookbook/
+
 ## Screenshot
 ![Screenshot](screenshot.png)
 
